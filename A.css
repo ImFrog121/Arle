@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://static.wikia.nocookie.net/6f08f5b6-b5a1-4b2b-a13d-ba8cb3d57ba1") 
+    
+   
+}
+.Text1{
+    text-shadow:2px 2px #000000;
+    border: 15px transparent ;
+    display: block;
+    float: left;
+    width: 500px;
+    height: 150px;
+    margin-top: 100px ;
+    text-align:left ;
+    color: rgb(255, 255, 255);
+    font-size: 22px ;
+} 
